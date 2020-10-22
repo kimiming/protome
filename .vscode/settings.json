@@ -1,0 +1,11 @@
+{
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+    "less.compile":{
+        "compress": true,
+        "sourceMap": false,
+        "out": false,
+    }
+}
